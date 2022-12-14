@@ -1,34 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Software Requirement Specification for Grasshopper Clone
 
-## Getting Started
+## Introduction
 
-First, run the development server:
+This project aims to create a clone of the Grasshopper website, with a focus on implementing a slideshow, mobile-first design, and web animations.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Slideshow
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The homepage of the website will feature a slideshow of images showcasing Grasshopper's products and services. The slideshow will automatically rotate through the images, with the option for users to manually navigate using arrow controls.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Mobile-First Design
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+The website will be designed with a mobile-first approach, meaning that the layout and functionality will be optimized for mobile devices first, and then scaled up for larger screens. This will ensure that the website provides a good user experience on a wide range of devices.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Web Animations
 
-## Learn More
+To enhance the user experience, the website will include various web animations. These could include hover effects on buttons and links, transitions between pages, and other interactive elements.
 
-To learn more about Next.js, take a look at the following resources:
+## Conclusion
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This software requirement specification outlines the key features and functionalities of the Grasshopper clone website. By implementing a slideshow, mobile-first design, and web animations, the website will provide an engaging and user-friendly experience for visitors.
